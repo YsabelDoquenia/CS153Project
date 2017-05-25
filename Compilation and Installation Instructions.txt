@@ -1,8 +1,8 @@
 GETTING FILES
-	from Email attachment
+	Choice 1: from Email attachment
 		1) Download attachment from email submission
 
-	from Git Repository
+	Choice 2: from Git Repository
 		Install Git 2.13.0 
 			1) Download Git-2.13.0-64-bit.exe from https://git-scm.com/download/win
 			2) Open Git-2.13.0-64-bit.exe and follow the prompts to install Git.
@@ -13,7 +13,7 @@ GETTING FILES
 			3) Enter "git clone https://github.com/YsabelDoquenia/CS153Project.git"
 	
 RUNNING THE PROGRAM
-	Using Python
+	Choice 1: Using Python
 		Install Python 2.7.13
 			1) Download python-2.7.13.msi from https://www.python.org/downloads/release/python-2713/
 			2) Open python-2.7.13.msi and follow the prompts to install Git.
@@ -25,7 +25,18 @@ RUNNING THE PROGRAM
 			3) Enter "python GaloisCalculator.py".
 			4) Enjoy using the Calculator!
 
-	Using Executable File
-		1) Open the folder containing GaloisCalculator.exe.
-		2) Open GaloisCalculator.exe.
-		3) Enjoy using the Calculator!
+	Choice 2: Using Executable File 
+		Choice 2.1: GaloisCalculator.exe
+			1) Open the folder containing GaloisCalculator.exe.
+			2) Open GaloisCalculator.exe.
+			3) Enjoy using the Calculator!
+
+		Choice 2.2: GaloisCalculator.py
+			Install Python 2.7.13	
+				1) Download python-2.7.13.msi from https://www.python.org/downloads/release/python-2713/
+				2) Open python-2.7.13.msi and follow the prompts to install Git.
+				3) Make sure to include in your Environmental Variable's Path the location of your Python27 folder ("C:\Python27").
+			
+			Open Python File
+				1) double-click GaloisCalculator.py
+				2) Enjoy using the Calculator!
